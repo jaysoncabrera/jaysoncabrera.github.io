@@ -2,17 +2,17 @@ h1 {
     font-family:comic sans ms; color: Black; font-size:25px;
 }
 p {
-    font-family:comic sans ms; color: #660000; font-size:18px;
+    font-family:comic sans ms; color: #660000; font-size:23px;
 }
 #p1 {
     font-family:comic sans ms; color: #660000; font-size:18px;
 }
 #p2 {
-    font-family:comic sans ms; color: #660000; font-size:20px;
+    font-family:comic sans ms; color: #660000; font-size:18px;
 }
 
 pre {
-    font-family:comic sans ms; color: #000033; font-size:35px;
+    font-family:comic sans ms; color: #000033; font-size:18px;
 }
 #body1 {
     background-image: url('images/Keyboard.gif');
